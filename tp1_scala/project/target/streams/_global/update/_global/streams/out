@@ -1,3 +1,6 @@
 [debug] not up to date. inChanged = true, force = false
-[debug] Updating ProjectRef(uri("file:/Users/amel/Desktop/IG/s9/fp/tp1_scala/project/"), "tp1_scala-build")...
-[debug] Done updating ProjectRef(uri("file:/Users/amel/Desktop/IG/s9/fp/tp1_scala/project/"), "tp1_scala-build")
+[debug] Updating ProjectRef(uri("file:/Users/amel/Desktop/IG/s9/fp/Programmation_Fonctionnelle/tp1_scala/project/"), "tp1_scala-build")...
+[debug] Done updating ProjectRef(uri("file:/Users/amel/Desktop/IG/s9/fp/Programmation_Fonctionnelle/tp1_scala/project/"), "tp1_scala-build")
+ry, ignoring it[0m
+[0m[[0m[33mwarn[0m] [0m[0mUnrecognized repository Scala Plugin Bundled Repository, ignoring it[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone updating ProjectRef(uri("file:/Users/amel/Desktop/IG/s9/fp/Programmation_Fonctionnelle/tp1_scala/project/"), "tp1_scala-build")[0m
